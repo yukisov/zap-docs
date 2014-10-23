@@ -44,7 +44,7 @@ authentication コンポーネント
 #####パラメータ2: contextId\*
 #####パラメータ3: authMethodName\*
 #####パラメータ4: authMethodConfigParams
-- key1=value1&key2=value2&... の形式で複数のパラメータとその値をセットする。
+- `key1=value1&key2=value2&...` の形式で複数のパラメータとその値をセットする。
 - Form-based Authentication の場合は、以下のパラメータをひとまとめにしてこのフィールドにセットする。
     - `loginUrl`
     - `loginRequestData`
