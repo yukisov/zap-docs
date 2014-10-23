@@ -1,2 +1,5 @@
-* [Introduction](intro.md)
+# Summary
+
+* [Introduction](README.md)
 * [API](api.md)
+
